@@ -1,0 +1,21 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Power BI automatic files
+*.pbit
+*.Dataset/metadata.json
+*.Report/metadata.json
+
+# SQL temp files
+*.bak
+*.trc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
