@@ -1,4 +1,4 @@
-# 🎬 Netflix SQL Project: Data Analysis
+# 🎬 Netflix SQL Project
 
 This project explores the Netflix titles dataset using SQL queries to uncover patterns and insights about movies and TV shows available on the platform. The dataset contains information such as title, type, director, cast, country, release year, rating, duration, genre, and date added to Netflix.
 
